@@ -59,7 +59,7 @@ This is a responsive and animated portfolio website built using **HTML**, **CSS*
 
 ## 🚀 Live Demo
 
-🔗 **[View My Portfolio](https://your-portfolio-link.com)** (Replace with your actual GitHub Pages link)
+🔗 https://github.com/muskanpandey2103/personal-portfolio.git
 
 ---
 
